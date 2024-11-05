@@ -1,9 +1,0 @@
-// 這是我的第一個github版本控制文件
-// 練習用 by ky6519 2024/11/04
-
-// 測試資料
-
-int id = 1
-String name = "ky6519"
-int age = 25
-int salary = 42700
