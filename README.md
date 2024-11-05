@@ -1,5 +1,5 @@
 # Test
 測試github
 
-![NOTE]
+[!NOTE]
 這是Note
