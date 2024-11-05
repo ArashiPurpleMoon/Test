@@ -1,12 +1,9 @@
 # 測試
-===
 測試github
-
 
 ## 測試 Markdown 語法
 > [!NOTE]
 > 這是Note
----
 
 ### 範例
 > [!NOTE]  
